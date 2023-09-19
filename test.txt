@@ -1,2 +1,1 @@
-Gitlab.com
-Onion
+Gitlab.com // for me
